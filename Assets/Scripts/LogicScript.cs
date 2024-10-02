@@ -9,12 +9,15 @@ public class LogicScript : MonoBehaviour
     public int playerScore;
     public Text scoreText;
     public GameObject GameOverScreen;
+    public AudioSource bonk;
+    public AudioSource mariocoin;
 
     [ContextMenu("Increase Score")]
     public void addScore(int scoreToAdd)
     {
         playerScore = playerScore + scoreToAdd;
         scoreText.text = playerScore.ToString();
+        mariocoin.Play();
     }
     public void restartgame()
     {
@@ -23,5 +26,6 @@ public class LogicScript : MonoBehaviour
     public void gameover()
     {
         GameOverScreen.SetActive(true);
+        bonk.Play();
     }
 }
