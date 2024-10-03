@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../../../.."
+		},
+		{
+			"path": "../../../../../Githubrepositories/epitygmataweb"
+		}
+	],
+	"settings": {
+		"dotnet.preferCSharpExtension": true,
+		"git.ignoreLimitWarning": true
+	}
+}
