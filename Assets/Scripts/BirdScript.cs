@@ -53,12 +53,11 @@ public class BirdScript : MonoBehaviour
         if (transform.position.y > 16 || transform.position.y < -16) {
             logic.gameover();
             birdIsAlive = false;
-            Debug.Log("birdIsAlive");
+  
         }
         if (transform.position.x > 27 || transform.position.x < -27) {
             logic.gameover();
             birdIsAlive = false;
-            Debug.Log("birdIsAlive");
         }
     }
 
