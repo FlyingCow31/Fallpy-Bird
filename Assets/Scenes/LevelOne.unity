@@ -250,6 +250,7 @@ MonoBehaviour:
   GameOverScreen: {fileID: 1270919610}
   bonk: {fileID: 734622350}
   mariocoin: {fileID: 734622351}
+  titleLogicScript: {fileID: 0}
 --- !u!4 &734622349
 Transform:
   m_ObjectHideFlags: 0

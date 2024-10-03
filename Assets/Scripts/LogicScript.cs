@@ -19,10 +19,12 @@ public class LogicScript : MonoBehaviour
         scoreText.text = playerScore.ToString();
         mariocoin.Play();
     }
+
     public void restartgame()
     {
         SceneManager.LoadScene(SceneManager.GetActiveScene().name);
     }
+
     public void gameover()
     {
         GameOverScreen.SetActive(true);
