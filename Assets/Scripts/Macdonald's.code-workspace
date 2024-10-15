@@ -1,9 +1,11 @@
 {
 	"folders": [
 		{
+			"name": "Macdonald's",
 			"path": "../../../.."
 		},
 		{
+			"name": "epitygmataweb",
 			"path": "../../../../../Githubrepositories/epitygmataweb"
 		}
 	],

@@ -31,15 +31,28 @@ I found a pretty cool README editor so I wanted to use it, that's why (+didn't a
 - Ennemies
 - Flappy Bird experience upgraded ! 
 - Simple game 
+- Guns. 
 
 
 ## Roadmap
+
+- Add functional guns
 
 - Add additionnals guns 
 
 - Add coins 
 
 - Add a new hidden level 
+
+- Add a way to win the game 
+
+- Add some animations
+
+- Fix the sound effects
+
+- Add boosters (like a nuke or something idk)
+
+- Make the ennemies spawn faster when winning a lot of points 
 
 - Remove Herobrine
 
@@ -49,4 +62,3 @@ I'm Gaël ! I'm learning C# so I wanted to make a fun game with guns to train my
 You can support me on KO-FI if you like what I do or what I'm going to do ! I also take commisions to increase my website development skills ! 
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/V7V0148C5L)
-
