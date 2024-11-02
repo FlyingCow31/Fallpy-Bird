@@ -36,6 +36,8 @@ I found a pretty cool README editor so I wanted to use it, that's why (+didn't a
 
 ## Roadmap
 
+/!\ I'm stopping the development, I want to make a real game, this one was only for learning the basics of C# ! See you in my next repo ! 
+
 - Add functional guns
 
 - Add additionnals guns 
