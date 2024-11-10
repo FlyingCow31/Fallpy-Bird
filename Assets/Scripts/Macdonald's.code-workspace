@@ -11,6 +11,7 @@
 	],
 	"settings": {
 		"dotnet.preferCSharpExtension": true,
-		"git.ignoreLimitWarning": true
+		"git.ignoreLimitWarning": true,
+		"dotnet.defaultSolution": "Macdonald's/projectshadow/Project Shadow/Project Shadow.sln"
 	}
 }
